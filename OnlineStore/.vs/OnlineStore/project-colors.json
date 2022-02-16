@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5a65b65c-c13b-4218-8406-dceed6543c45": {
+      "ProjectGuid": "5a65b65c-c13b-4218-8406-dceed6543c45",
+      "DisplayName": "OnlineStore.WebApp",
+      "ColorIndex": 0
+    },
+    "09f55bc2-b258-4b3f-9a93-4f5c575b1301": {
+      "ProjectGuid": "09f55bc2-b258-4b3f-9a93-4f5c575b1301",
+      "DisplayName": "OnlineStore.System",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
